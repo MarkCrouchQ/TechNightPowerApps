@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/PowerApps/Properties/PublishProfiles/powerappq - Web Deploy.pubxml
